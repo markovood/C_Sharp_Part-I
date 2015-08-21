@@ -1,0 +1,20 @@
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like Visual Studio.
+
+			***	***	***
+
+1. Microsoft Visual Studio
+
+Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.
+
+2. Net Beans
+
+NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.[citation needed] It is also an application platform framework for Java desktop applications and others.The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.The NetBeans Platform allows applications to be developed from a set of modular software components called modules. Applications based on the NetBeans Platform (including the NetBeans IDE itself) can be extended by third party developers.
+
+3. Eclipse
+
+Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. It can also be used to develop packages for the software Mathematica. Development environments include the Eclipse Java development tools (JDT) for Java and Scala, Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+
+4. SharpDevelop
+
+SharpDevelop (also styled as #develop) is a free and open source integrated development environment (IDE) for the .NET Framework,Mono,Gtk# and Glade# platforms.It supports development in C#,Visual Basic .NET,Boo, F#,IronPython and IronRuby programming languages.It was designed as a free and lightweight alternative to Microsoft Visual Studio, and contains an equivalent feature for almost every essential Visual Studio Express feature, including features for project management, code editing, application compiling and debugging.To allow for easy project migration, SharpDevelop works natively with Visual Studio project and code files. It is able to compile applications for .NET Framework version 2.0, 3.0, 3.5, 4.0 and the .NET Compact Framework 2.0 and 3.5.
+

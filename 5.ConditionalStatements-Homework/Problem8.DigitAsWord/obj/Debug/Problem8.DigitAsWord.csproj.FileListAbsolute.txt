@@ -1,0 +1,14 @@
+D:\Visual studio Projects\ConditionalStatements\Problem8.DigitAsWord\bin\Debug\Problem8.DigitAsWord.exe.config
+D:\Visual studio Projects\ConditionalStatements\Problem8.DigitAsWord\bin\Debug\Problem8.DigitAsWord.exe
+D:\Visual studio Projects\ConditionalStatements\Problem8.DigitAsWord\bin\Debug\Problem8.DigitAsWord.pdb
+D:\Visual studio Projects\ConditionalStatements\Problem8.DigitAsWord\obj\Debug\Problem8.DigitAsWord.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\ConditionalStatements\Problem8.DigitAsWord\obj\Debug\Problem8.DigitAsWord.exe
+D:\Visual studio Projects\ConditionalStatements\Problem8.DigitAsWord\obj\Debug\Problem8.DigitAsWord.pdb
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem8.DigitAsWord\bin\Debug\Problem8.DigitAsWord.exe.config
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem8.DigitAsWord\obj\Debug\Problem8.DigitAsWord.exe
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem8.DigitAsWord\obj\Debug\Problem8.DigitAsWord.pdb
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem8.DigitAsWord\bin\Debug\Problem8.DigitAsWord.exe
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem8.DigitAsWord\bin\Debug\Problem8.DigitAsWord.pdb
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem8.DigitAsWord\bin\Debug\Problem8.DigitAsWord.exe.CodeAnalysisLog.xml
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem8.DigitAsWord\bin\Debug\Problem8.DigitAsWord.exe.lastcodeanalysissucceeded
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem8.DigitAsWord\obj\Debug\Problem8.DigitAsWord.csprojResolveAssemblyReference.cache

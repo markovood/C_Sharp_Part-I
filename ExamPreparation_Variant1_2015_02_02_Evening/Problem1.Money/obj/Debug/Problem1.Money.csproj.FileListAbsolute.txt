@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Evening\Problem1.Money\bin\Debug\Problem1.Money.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Evening\Problem1.Money\bin\Debug\Problem1.Money.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Evening\Problem1.Money\bin\Debug\Problem1.Money.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Evening\Problem1.Money\obj\Debug\Problem1.Money.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Evening\Problem1.Money\obj\Debug\Problem1.Money.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Evening\Problem1.Money\obj\Debug\Problem1.Money.pdb

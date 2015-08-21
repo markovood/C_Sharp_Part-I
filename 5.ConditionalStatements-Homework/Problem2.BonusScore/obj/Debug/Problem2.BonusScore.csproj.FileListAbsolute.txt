@@ -1,0 +1,14 @@
+D:\Visual studio Projects\ConditionalStatements\Problem2.BonusScore\bin\Debug\Problem2.BonusScore.exe.config
+D:\Visual studio Projects\ConditionalStatements\Problem2.BonusScore\bin\Debug\Problem2.BonusScore.exe
+D:\Visual studio Projects\ConditionalStatements\Problem2.BonusScore\bin\Debug\Problem2.BonusScore.pdb
+D:\Visual studio Projects\ConditionalStatements\Problem2.BonusScore\obj\Debug\Problem2.BonusScore.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\ConditionalStatements\Problem2.BonusScore\obj\Debug\Problem2.BonusScore.exe
+D:\Visual studio Projects\ConditionalStatements\Problem2.BonusScore\obj\Debug\Problem2.BonusScore.pdb
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem2.BonusScore\bin\Debug\Problem2.BonusScore.exe.config
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem2.BonusScore\bin\Debug\Problem2.BonusScore.exe
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem2.BonusScore\bin\Debug\Problem2.BonusScore.pdb
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem2.BonusScore\bin\Debug\Problem2.BonusScore.exe.CodeAnalysisLog.xml
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem2.BonusScore\bin\Debug\Problem2.BonusScore.exe.lastcodeanalysissucceeded
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem2.BonusScore\obj\Debug\Problem2.BonusScore.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem2.BonusScore\obj\Debug\Problem2.BonusScore.exe
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem2.BonusScore\obj\Debug\Problem2.BonusScore.pdb

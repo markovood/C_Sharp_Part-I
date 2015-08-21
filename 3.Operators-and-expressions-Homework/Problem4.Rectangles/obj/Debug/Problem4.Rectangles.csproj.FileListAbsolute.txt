@@ -1,0 +1,5 @@
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem4.Rectangles\bin\Debug\Problem4.Rectangles.exe.config
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem4.Rectangles\bin\Debug\Problem4.Rectangles.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem4.Rectangles\bin\Debug\Problem4.Rectangles.pdb
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem4.Rectangles\obj\Debug\Problem4.Rectangles.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem4.Rectangles\obj\Debug\Problem4.Rectangles.pdb

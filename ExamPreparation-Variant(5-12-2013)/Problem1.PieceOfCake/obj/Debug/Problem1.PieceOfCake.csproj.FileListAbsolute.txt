@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem1.PieceOfCake\bin\Debug\Problem1.PieceOfCake.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem1.PieceOfCake\bin\Debug\Problem1.PieceOfCake.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem1.PieceOfCake\bin\Debug\Problem1.PieceOfCake.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem1.PieceOfCake\obj\Debug\Problem1.PieceOfCake.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem1.PieceOfCake\obj\Debug\Problem1.PieceOfCake.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem1.PieceOfCake\obj\Debug\Problem1.PieceOfCake.pdb

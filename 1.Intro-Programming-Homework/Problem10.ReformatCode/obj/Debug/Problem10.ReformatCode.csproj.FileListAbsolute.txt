@@ -1,0 +1,8 @@
+D:\Visual studio Projects\Intro-Programming-Homework\Problem10.ReformatCode\bin\Debug\Problem10.ReformatCode.exe.config
+D:\Visual studio Projects\Intro-Programming-Homework\Problem10.ReformatCode\bin\Debug\Problem10.ReformatCode.exe
+D:\Visual studio Projects\Intro-Programming-Homework\Problem10.ReformatCode\bin\Debug\Problem10.ReformatCode.pdb
+D:\Visual studio Projects\Intro-Programming-Homework\Problem10.ReformatCode\obj\Debug\Problem10.ReformatCode.exe
+D:\Visual studio Projects\Intro-Programming-Homework\Problem10.ReformatCode\obj\Debug\Problem10.ReformatCode.pdb
+D:\Visual studio Projects\C#Part-I\1.Intro-Programming-Homework\Problem10.ReformatCode\bin\Debug\Problem10.ReformatCode.exe.config
+D:\Visual studio Projects\C#Part-I\1.Intro-Programming-Homework\Problem10.ReformatCode\obj\Debug\Problem10.ReformatCode.exe
+D:\Visual studio Projects\C#Part-I\1.Intro-Programming-Homework\Problem10.ReformatCode\obj\Debug\Problem10.ReformatCode.pdb

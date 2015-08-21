@@ -1,0 +1,9 @@
+Describe the difference between C# and .NET Framework in 2-3 sentences.
+
+
+			***	***	***
+
+C# is a programming language.
+.NET Framework is a collection of libraries, the libraries are collection of classes, and the classes are used by C# to save writing code for things that are common and always used.
+
+C# is build on top of .NET Framework ;)

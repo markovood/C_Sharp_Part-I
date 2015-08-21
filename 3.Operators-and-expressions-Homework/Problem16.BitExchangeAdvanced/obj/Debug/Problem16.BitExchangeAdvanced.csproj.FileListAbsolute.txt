@@ -1,0 +1,2 @@
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem16.BitExchangeAdvanced\bin\Debug\Problem16.BitExchangeAdvanced.exe.config
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem16.BitExchangeAdvanced\bin\Debug\Problem16.BitExchangeAdvanced.exe.config

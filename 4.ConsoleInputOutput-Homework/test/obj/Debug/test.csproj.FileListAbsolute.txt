@@ -1,0 +1,6 @@
+D:\Visual studio Projects\ConsoleInputOutput\test\bin\Debug\test.exe.config
+D:\Visual studio Projects\ConsoleInputOutput\test\bin\Debug\test.exe
+D:\Visual studio Projects\ConsoleInputOutput\test\bin\Debug\test.pdb
+D:\Visual studio Projects\ConsoleInputOutput\test\obj\Debug\test.exe
+D:\Visual studio Projects\ConsoleInputOutput\test\obj\Debug\test.pdb
+D:\Visual studio Projects\ConsoleInputOutput\test\obj\Debug\test.csprojResolveAssemblyReference.cache

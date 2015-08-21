@@ -1,0 +1,55 @@
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most popular programming languages. How similar are they to C#? How do they differ from C#?
+			
+			***	***	***
+
+http://en.wikipedia.org/wiki/Comparison_of_programming_languages - at this link you can find a table with comparison of commonly used progarming languages, but here is a short list of the most popular ones in brief (In Randome order)...
+
+1. C Language
+
+C language was developed by Dennis Ritchie in 1972, at Bell labs. C language is ancestor to many of the advanced programming languages such as C++, Java, C#, JavaScript, and Pearl.C language is mostly used for developing low level applications as it is considered nearest to the hardware among all languages, baring assembly language.C is also used for implementing operating systems and embedded applications.
+
+2. C++ 
+
+Although C language was performing extremely well, it lacked object orientation. In order to address this issue, C++ language was developed in 1983 which is often considered object oriented version of C language. C++ is one of the most widely used languages of the world with many applications developed through it. Google Chrome, Mozilla Firefox, Winamp, and the complete suite of Adobe Software were developed using C++. Apart from that, several advanced games and operating systems – like windows – have been developed in C++ due to its quick processing and compilation mechanism.
+
+3. C#
+
+C# was developed in 2000 to be the part of the first ever release of Microsoft’s .NET framework. C# is very similar to Java in terms of capabilities. It has been said that C# combines the robustness of C++ with the advanced features of Java. Therefore, if you are good at Java, it is extremely easy to switch to C# and vice-versa.
+
+C# language is used to develop almost all types of software applications that come with Visual Studio IDE. If you are developing a dynamic web based application in ASP.NET, you will be required to code in C# or VB to write backend handling mechanism. If you are developing a Windows form application or a Windows Presentation Foundation (WPF) Application, you will be required to code in C#. Similarly, if you are developing a windows phone application, again you will be required to code in C#.Keeping in view, the importance of the usage of C# in Microsoft’s application, you should definitely consider it if you are looking to develop applications for Windows-based platforms.
+
+4. Java
+
+Java was developed by James Gosling, in 1990 at Sun Microsystems. Java further adds to the capabilities of C++ language. It is often said that Java owes a lot to C and C++ in terms of features and capabilities. The special thing about Java is that this is the first purely object oriented programming language. Java was developed on the principle of WORA i.e. “Write Once Run Anywhere”. This feature adds to the portability of Java. You just need to compile Java Source code once and then on any machine where JVM (Java Virtual Machine is installed), you can run that code irrespective of the underlying operating system and hardware.
+
+Java language is used to develop enterprise level application and video games; it can be employed to develop web based applications when used with JSP (Java Server Pages).
+
+5. Objective C
+
+Objective-C was initially developed at Apple by Brad Cox and Tom Love, in 1983. The purpose of developing Objective-C programming language was to address the deficiencies in C language. The major shortcoming in C language was object orientation which provoked many developers to create languages that incorporate object orientation model. As a result C++ and Object-C were developed. Objective-C have gained huge popularity because of its use in developing applications for Apple’s iPhone and iPad.
+
+Knowledge of Objective-C would be helpful in developing Apple based software applications.
+
+6. PHP
+
+PHP (Hypertext Preprocessor) is one of the most widely used languages used to develop dynamic websites. PHP was developed in 1995 and is a server-side scripting language which means that PHP code is processed on the server and end result is sent to the user of the website in the form of plain HTML.
+
+PHP is an open-source language which means that there are thousands of already built modules that can be modified to achieve the desired functionality. Also, PHP is easy to learn; you simply have to embed the code inside HTML. And if there was anything left, there are hundreds of PHP platforms available such as Joomla, WordPress, and Drupal that allow you to develop websites even more conveniently.PHP is also an integral part of the famous LAMP,WAMP and XAMP (Linux/Windows/Cross-platform Apache MySQL and PHP) platform that Facebook, Yahoo, and other famous websites use.
+
+7. JavaScript
+
+Server side languages are ideal for developing complex web applications but performing every task on server puts lots of load on a server. For this reason, developers often delegate some part of the functionality to client side and for this purpose JavaScript is used. JavaScript is a client side programming language that runs inside a client browser and process commands on client computer rather than server which results in decreased load on server and increased application’s execution speed. JavaScript has been designed by Netscape and there is hardly any website that doesn’t make use of JavaScript.
+
+8. Python
+
+Python is another high-level programming language and is often considered the easiest language to learn, owing to its simplicity, readability and straight forward syntax. Python was developed by Guido Van Rossum in 1991. Python wasn’t used that widely in the past; however, the language has become popular in the recent years owing to Google’s investment in the language.Currently, some highly famous and robust sites are operating in python including pinterest.com, instagram.com, and rdio.com. Like, PHP, Python also has associated web frameworks which make it more convenient to develop web based applications in python. Django is such a platform which powers the sites mentioned above.
+
+9. Ruby
+
+Similar to Python, Ruby is also a simple and readable programming language mainly focused on developing web-based applications. Designed by Yukihiro Matsumoto in 1995, Ruby powers Ruby on Rails, a web development framework on which numerous famous websites including Github, Scribd, Yammer, Shopify, and Groupon have been developed. Ruby is regarded as combination of some of the most famous features of Lisp, Pearl and Eiffel.
+
+10. SQL
+
+SQL is not a development language; it is actually a database query language. SQL stands for Structured Query Language. SQL provides a standardized way of interacting with the underlying database of an application. SQL is extremely simple to learn and is probably closest to the English language in terms of syntax. Almost every application has a backend database and in order to interact with that you will need to have good knowledge of SQL. 
+
+

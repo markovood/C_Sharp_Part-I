@@ -1,0 +1,12 @@
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem11.BankAcountData\bin\Debug\Problem11.BankAcountData.exe.config
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem11.BankAcountData\bin\Debug\Problem11.BankAcountData.exe
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem11.BankAcountData\bin\Debug\Problem11.BankAcountData.pdb
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem11.BankAcountData\obj\Debug\Problem11.BankAcountData.exe
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem11.BankAcountData\obj\Debug\Problem11.BankAcountData.pdb
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem11.BankAcountData\obj\Debug\Problem11.BankAcountData.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem11.BankAcountData\bin\Debug\Problem11.BankAcountData.exe.config
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem11.BankAcountData\obj\Debug\Problem11.BankAcountData.exe
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem11.BankAcountData\obj\Debug\Problem11.BankAcountData.pdb
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem11.BankAcountData\bin\Debug\Problem11.BankAcountData.exe
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem11.BankAcountData\bin\Debug\Problem11.BankAcountData.pdb
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem11.BankAcountData\obj\Debug\Problem11.BankAcountData.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Visual studio Projects\ConsoleInputOutput\Problem12.FallingRocks\bin\Debug\Problem12.FallingRocks.exe.config
+D:\Visual studio Projects\ConsoleInputOutput\Problem12.FallingRocks\bin\Debug\Problem12.FallingRocks.exe
+D:\Visual studio Projects\ConsoleInputOutput\Problem12.FallingRocks\bin\Debug\Problem12.FallingRocks.pdb
+D:\Visual studio Projects\ConsoleInputOutput\Problem12.FallingRocks\obj\Debug\Problem12.FallingRocks.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\ConsoleInputOutput\Problem12.FallingRocks\obj\Debug\Problem12.FallingRocks.exe
+D:\Visual studio Projects\ConsoleInputOutput\Problem12.FallingRocks\obj\Debug\Problem12.FallingRocks.pdb
+D:\Visual studio Projects\C#Part-I\4.ConsoleInputOutput-Homework\Problem12.FallingRocks\bin\Debug\Problem12.FallingRocks.exe.config
+D:\Visual studio Projects\C#Part-I\4.ConsoleInputOutput-Homework\Problem12.FallingRocks\obj\Debug\Problem12.FallingRocks.exe
+D:\Visual studio Projects\C#Part-I\4.ConsoleInputOutput-Homework\Problem12.FallingRocks\obj\Debug\Problem12.FallingRocks.pdb

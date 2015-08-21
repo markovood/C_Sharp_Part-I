@@ -1,0 +1,12 @@
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem10.EmployeeData\bin\Debug\Problem10.EmployeeData.exe.config
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem10.EmployeeData\bin\Debug\Problem10.EmployeeData.exe
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem10.EmployeeData\bin\Debug\Problem10.EmployeeData.pdb
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem10.EmployeeData\obj\Debug\Problem10.EmployeeData.exe
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem10.EmployeeData\obj\Debug\Problem10.EmployeeData.pdb
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem10.EmployeeData\obj\Debug\Problem10.EmployeeData.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem10.EmployeeData\bin\Debug\Problem10.EmployeeData.exe.config
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem10.EmployeeData\obj\Debug\Problem10.EmployeeData.exe
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem10.EmployeeData\obj\Debug\Problem10.EmployeeData.pdb
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem10.EmployeeData\bin\Debug\Problem10.EmployeeData.exe
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem10.EmployeeData\bin\Debug\Problem10.EmployeeData.pdb
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem10.EmployeeData\obj\Debug\Problem10.EmployeeData.csprojResolveAssemblyReference.cache

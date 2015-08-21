@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem4.Eggcelent\bin\Debug\Problem4.Eggcelent.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem4.Eggcelent\bin\Debug\Problem4.Eggcelent.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem4.Eggcelent\bin\Debug\Problem4.Eggcelent.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem4.Eggcelent\obj\Debug\Problem4.Eggcelent.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem4.Eggcelent\obj\Debug\Problem4.Eggcelent.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem4.Eggcelent\obj\Debug\Problem4.Eggcelent.pdb

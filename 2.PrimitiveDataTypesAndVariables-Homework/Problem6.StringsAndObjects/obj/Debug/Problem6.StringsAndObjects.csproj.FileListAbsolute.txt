@@ -1,0 +1,5 @@
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem6.StringsAndObjects\bin\Debug\Problem6.StringsAndObjects.exe.config
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem6.StringsAndObjects\bin\Debug\Problem6.StringsAndObjects.exe
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem6.StringsAndObjects\bin\Debug\Problem6.StringsAndObjects.pdb
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem6.StringsAndObjects\obj\Debug\Problem6.StringsAndObjects.exe
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem6.StringsAndObjects\obj\Debug\Problem6.StringsAndObjects.pdb

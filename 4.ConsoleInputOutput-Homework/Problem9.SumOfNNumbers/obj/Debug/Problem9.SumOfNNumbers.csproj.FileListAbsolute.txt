@@ -1,0 +1,5 @@
+D:\Visual studio Projects\ConsoleInputOutput\Problem9.SumOfNNumbers\bin\Debug\Problem9.SumOfNNumbers.exe.config
+D:\Visual studio Projects\ConsoleInputOutput\Problem9.SumOfNNumbers\bin\Debug\Problem9.SumOfNNumbers.exe
+D:\Visual studio Projects\ConsoleInputOutput\Problem9.SumOfNNumbers\bin\Debug\Problem9.SumOfNNumbers.pdb
+D:\Visual studio Projects\ConsoleInputOutput\Problem9.SumOfNNumbers\obj\Debug\Problem9.SumOfNNumbers.exe
+D:\Visual studio Projects\ConsoleInputOutput\Problem9.SumOfNNumbers\obj\Debug\Problem9.SumOfNNumbers.pdb

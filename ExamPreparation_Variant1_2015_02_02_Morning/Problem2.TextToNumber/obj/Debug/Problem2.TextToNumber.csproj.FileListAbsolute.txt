@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem2.TextToNumber\bin\Debug\Problem2.TextToNumber.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem2.TextToNumber\bin\Debug\Problem2.TextToNumber.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem2.TextToNumber\bin\Debug\Problem2.TextToNumber.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem2.TextToNumber\obj\Debug\Problem2.TextToNumber.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem2.TextToNumber\obj\Debug\Problem2.TextToNumber.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem2.TextToNumber\obj\Debug\Problem2.TextToNumber.csprojResolveAssemblyReference.cache

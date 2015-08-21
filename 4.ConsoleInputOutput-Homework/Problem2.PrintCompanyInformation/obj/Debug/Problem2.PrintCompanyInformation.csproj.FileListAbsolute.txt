@@ -1,0 +1,6 @@
+D:\Visual studio Projects\ConsoleInputOutput\Problem2.PrintCompanyInformation\bin\Debug\Problem2.PrintCompanyInformation.exe.config
+D:\Visual studio Projects\ConsoleInputOutput\Problem2.PrintCompanyInformation\bin\Debug\Problem2.PrintCompanyInformation.exe
+D:\Visual studio Projects\ConsoleInputOutput\Problem2.PrintCompanyInformation\bin\Debug\Problem2.PrintCompanyInformation.pdb
+D:\Visual studio Projects\ConsoleInputOutput\Problem2.PrintCompanyInformation\obj\Debug\Problem2.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\ConsoleInputOutput\Problem2.PrintCompanyInformation\obj\Debug\Problem2.PrintCompanyInformation.exe
+D:\Visual studio Projects\ConsoleInputOutput\Problem2.PrintCompanyInformation\obj\Debug\Problem2.PrintCompanyInformation.pdb

@@ -1,0 +1,12 @@
+D:\Visual studio Projects\ConsoleInputOutput\Problem1.SumOf3Numbers\bin\Debug\Problem1.SumOf3Numbers.exe.config
+D:\Visual studio Projects\ConsoleInputOutput\Problem1.SumOf3Numbers\bin\Debug\Problem1.SumOf3Numbers.exe
+D:\Visual studio Projects\ConsoleInputOutput\Problem1.SumOf3Numbers\bin\Debug\Problem1.SumOf3Numbers.pdb
+D:\Visual studio Projects\ConsoleInputOutput\Problem1.SumOf3Numbers\obj\Debug\Problem1.SumOf3Numbers.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\ConsoleInputOutput\Problem1.SumOf3Numbers\obj\Debug\Problem1.SumOf3Numbers.exe
+D:\Visual studio Projects\ConsoleInputOutput\Problem1.SumOf3Numbers\obj\Debug\Problem1.SumOf3Numbers.pdb
+D:\Visual studio Projects\4.ConsoleInputOutput\Problem1.SumOf3Numbers\bin\Debug\Problem1.SumOf3Numbers.exe.config
+D:\Visual studio Projects\4.ConsoleInputOutput\Problem1.SumOf3Numbers\obj\Debug\Problem1.SumOf3Numbers.exe
+D:\Visual studio Projects\4.ConsoleInputOutput\Problem1.SumOf3Numbers\obj\Debug\Problem1.SumOf3Numbers.pdb
+D:\Visual studio Projects\C#Part-I\4.ConsoleInputOutput-Homework\Problem1.SumOf3Numbers\bin\Debug\Problem1.SumOf3Numbers.exe.config
+D:\Visual studio Projects\C#Part-I\4.ConsoleInputOutput-Homework\Problem1.SumOf3Numbers\obj\Debug\Problem1.SumOf3Numbers.exe
+D:\Visual studio Projects\C#Part-I\4.ConsoleInputOutput-Homework\Problem1.SumOf3Numbers\obj\Debug\Problem1.SumOf3Numbers.pdb

@@ -1,0 +1,5 @@
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem7.QuotesInStrings\bin\Debug\Problem7.QuotesInStrings.exe.config
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem7.QuotesInStrings\bin\Debug\Problem7.QuotesInStrings.exe
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem7.QuotesInStrings\bin\Debug\Problem7.QuotesInStrings.pdb
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem7.QuotesInStrings\obj\Debug\Problem7.QuotesInStrings.exe
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem7.QuotesInStrings\obj\Debug\Problem7.QuotesInStrings.pdb

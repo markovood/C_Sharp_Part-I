@@ -1,0 +1,5 @@
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem3.DivideBy7and5\bin\Debug\Problem3.DivideBy7and5.exe.config
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem3.DivideBy7and5\bin\Debug\Problem3.DivideBy7and5.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem3.DivideBy7and5\bin\Debug\Problem3.DivideBy7and5.pdb
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem3.DivideBy7and5\obj\Debug\Problem3.DivideBy7and5.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem3.DivideBy7and5\obj\Debug\Problem3.DivideBy7and5.pdb

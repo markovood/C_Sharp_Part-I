@@ -1,0 +1,5 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem3.OnesAndZeros\bin\Debug\Problem3.OnesAndZeros.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem3.OnesAndZeros\bin\Debug\Problem3.OnesAndZeros.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem3.OnesAndZeros\bin\Debug\Problem3.OnesAndZeros.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem3.OnesAndZeros\obj\Debug\Problem3.OnesAndZeros.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem3.OnesAndZeros\obj\Debug\Problem3.OnesAndZeros.pdb

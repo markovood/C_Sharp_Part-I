@@ -1,0 +1,6 @@
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem2.GravitationOnTheMoon\bin\Debug\Problem2.GravitationOnTheMoon.exe.config
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem2.GravitationOnTheMoon\bin\Debug\Problem2.GravitationOnTheMoon.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem2.GravitationOnTheMoon\bin\Debug\Problem2.GravitationOnTheMoon.pdb
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem2.GravitationOnTheMoon\obj\Debug\Problem2.GravitationOnTheMoon.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem2.GravitationOnTheMoon\obj\Debug\Problem2.GravitationOnTheMoon.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem2.GravitationOnTheMoon\obj\Debug\Problem2.GravitationOnTheMoon.pdb

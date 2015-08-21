@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem1._3-6-9\bin\Debug\Problem1._3-6-9.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem1._3-6-9\bin\Debug\Problem1._3-6-9.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem1._3-6-9\bin\Debug\Problem1._3-6-9.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem1._3-6-9\obj\Debug\Problem1._3-6-9.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem1._3-6-9\obj\Debug\Problem1._3-6-9.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem1._3-6-9\obj\Debug\Problem1._3-6-9.csprojResolveAssemblyReference.cache

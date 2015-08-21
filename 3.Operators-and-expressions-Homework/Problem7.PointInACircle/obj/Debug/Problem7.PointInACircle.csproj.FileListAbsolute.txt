@@ -1,0 +1,9 @@
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem7.PointInACircle\bin\Debug\Problem7.PointInACircle.exe.config
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem7.PointInACircle\bin\Debug\Problem7.PointInACircle.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem7.PointInACircle\bin\Debug\Problem7.PointInACircle.pdb
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem7.PointInACircle\obj\Debug\Problem7.PointInACircle.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem7.PointInACircle\obj\Debug\Problem7.PointInACircle.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem7.PointInACircle\obj\Debug\Problem7.PointInACircle.pdb
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem7.PointInACircle\bin\Debug\Problem7.PointInACircle.exe.config
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem7.PointInACircle\obj\Debug\Problem7.PointInACircle.exe
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem7.PointInACircle\obj\Debug\Problem7.PointInACircle.pdb

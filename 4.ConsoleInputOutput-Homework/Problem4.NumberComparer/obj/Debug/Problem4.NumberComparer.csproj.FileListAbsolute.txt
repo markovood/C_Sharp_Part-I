@@ -1,0 +1,9 @@
+D:\Visual studio Projects\ConsoleInputOutput\Problem4.NumberComparer\bin\Debug\Problem4.NumberComparer.exe.config
+D:\Visual studio Projects\ConsoleInputOutput\Problem4.NumberComparer\bin\Debug\Problem4.NumberComparer.exe
+D:\Visual studio Projects\ConsoleInputOutput\Problem4.NumberComparer\bin\Debug\Problem4.NumberComparer.pdb
+D:\Visual studio Projects\ConsoleInputOutput\Problem4.NumberComparer\obj\Debug\Problem4.NumberComparer.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\ConsoleInputOutput\Problem4.NumberComparer\obj\Debug\Problem4.NumberComparer.exe
+D:\Visual studio Projects\ConsoleInputOutput\Problem4.NumberComparer\obj\Debug\Problem4.NumberComparer.pdb
+D:\Visual studio Projects\C#Part-I\4.ConsoleInputOutput-Homework\Problem4.NumberComparer\bin\Debug\Problem4.NumberComparer.exe.config
+D:\Visual studio Projects\C#Part-I\4.ConsoleInputOutput-Homework\Problem4.NumberComparer\obj\Debug\Problem4.NumberComparer.exe
+D:\Visual studio Projects\C#Part-I\4.ConsoleInputOutput-Homework\Problem4.NumberComparer\obj\Debug\Problem4.NumberComparer.pdb

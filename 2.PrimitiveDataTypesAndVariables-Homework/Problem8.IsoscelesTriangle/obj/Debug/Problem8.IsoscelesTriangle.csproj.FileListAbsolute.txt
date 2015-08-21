@@ -1,0 +1,12 @@
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem8.IsoscelesTriangle\bin\Debug\Problem8.IsoscelesTriangle.exe.config
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem8.IsoscelesTriangle\bin\Debug\Problem8.IsoscelesTriangle.exe
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem8.IsoscelesTriangle\bin\Debug\Problem8.IsoscelesTriangle.pdb
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem8.IsoscelesTriangle\obj\Debug\Problem8.IsoscelesTriangle.exe
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem8.IsoscelesTriangle\obj\Debug\Problem8.IsoscelesTriangle.pdb
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem8.IsoscelesTriangle\obj\Debug\Problem8.IsoscelesTriangle.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem8.IsoscelesTriangle\bin\Debug\Problem8.IsoscelesTriangle.exe.config
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem8.IsoscelesTriangle\obj\Debug\Problem8.IsoscelesTriangle.exe
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem8.IsoscelesTriangle\obj\Debug\Problem8.IsoscelesTriangle.pdb
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem8.IsoscelesTriangle\bin\Debug\Problem8.IsoscelesTriangle.exe
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem8.IsoscelesTriangle\bin\Debug\Problem8.IsoscelesTriangle.pdb
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem8.IsoscelesTriangle\obj\Debug\Problem8.IsoscelesTriangle.csprojResolveAssemblyReference.cache

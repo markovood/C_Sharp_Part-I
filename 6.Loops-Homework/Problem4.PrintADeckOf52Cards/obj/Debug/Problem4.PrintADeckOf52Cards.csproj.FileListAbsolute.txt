@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem4.PrintADeckOf52Cards\bin\Debug\Problem4.PrintADeckOf52Cards.exe.config
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem4.PrintADeckOf52Cards\bin\Debug\Problem4.PrintADeckOf52Cards.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem4.PrintADeckOf52Cards\bin\Debug\Problem4.PrintADeckOf52Cards.pdb
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem4.PrintADeckOf52Cards\obj\Debug\Problem4.PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem4.PrintADeckOf52Cards\obj\Debug\Problem4.PrintADeckOf52Cards.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem4.PrintADeckOf52Cards\obj\Debug\Problem4.PrintADeckOf52Cards.pdb

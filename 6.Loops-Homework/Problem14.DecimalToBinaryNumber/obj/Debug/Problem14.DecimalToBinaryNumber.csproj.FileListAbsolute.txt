@@ -1,0 +1,5 @@
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem14.DecimalToBinaryNumber\bin\Debug\Problem14.DecimalToBinaryNumber.exe.config
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem14.DecimalToBinaryNumber\bin\Debug\Problem14.DecimalToBinaryNumber.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem14.DecimalToBinaryNumber\bin\Debug\Problem14.DecimalToBinaryNumber.pdb
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem14.DecimalToBinaryNumber\obj\Debug\Problem14.DecimalToBinaryNumber.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem14.DecimalToBinaryNumber\obj\Debug\Problem14.DecimalToBinaryNumber.pdb

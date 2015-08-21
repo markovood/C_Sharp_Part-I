@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem13.BinaryToDecimalNumber\bin\Debug\Problem13.BinaryToDecimalNumber.exe.config
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem13.BinaryToDecimalNumber\obj\Debug\Problem13.BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem13.BinaryToDecimalNumber\bin\Debug\Problem13.BinaryToDecimalNumber.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem13.BinaryToDecimalNumber\bin\Debug\Problem13.BinaryToDecimalNumber.pdb
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem13.BinaryToDecimalNumber\obj\Debug\Problem13.BinaryToDecimalNumber.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem13.BinaryToDecimalNumber\obj\Debug\Problem13.BinaryToDecimalNumber.pdb

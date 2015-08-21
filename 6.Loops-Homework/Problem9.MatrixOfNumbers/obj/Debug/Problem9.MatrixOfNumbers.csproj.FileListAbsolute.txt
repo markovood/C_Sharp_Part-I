@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem9.MatrixOfNumbers\bin\Debug\Problem9.MatrixOfNumbers.exe.config
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem9.MatrixOfNumbers\bin\Debug\Problem9.MatrixOfNumbers.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem9.MatrixOfNumbers\bin\Debug\Problem9.MatrixOfNumbers.pdb
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem9.MatrixOfNumbers\obj\Debug\Problem9.MatrixOfNumbers.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem9.MatrixOfNumbers\obj\Debug\Problem9.MatrixOfNumbers.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem9.MatrixOfNumbers\obj\Debug\Problem9.MatrixOfNumbers.pdb

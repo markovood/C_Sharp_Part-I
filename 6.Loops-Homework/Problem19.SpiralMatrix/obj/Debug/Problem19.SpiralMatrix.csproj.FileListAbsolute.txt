@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem19.SpiralMatrix\bin\Debug\Problem19.SpiralMatrix.exe.config
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem19.SpiralMatrix\bin\Debug\Problem19.SpiralMatrix.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem19.SpiralMatrix\bin\Debug\Problem19.SpiralMatrix.pdb
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem19.SpiralMatrix\obj\Debug\Problem19.SpiralMatrix.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem19.SpiralMatrix\obj\Debug\Problem19.SpiralMatrix.pdb
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem19.SpiralMatrix\obj\Debug\Problem19.SpiralMatrix.csprojResolveAssemblyReference.cache

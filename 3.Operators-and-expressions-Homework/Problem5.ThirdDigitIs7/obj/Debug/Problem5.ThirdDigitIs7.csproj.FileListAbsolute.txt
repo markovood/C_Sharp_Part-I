@@ -1,0 +1,8 @@
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem5.ThirdDigitIs7\bin\Debug\Problem5.ThirdDigitIs7.exe.config
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem5.ThirdDigitIs7\bin\Debug\Problem5.ThirdDigitIs7.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem5.ThirdDigitIs7\bin\Debug\Problem5.ThirdDigitIs7.pdb
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem5.ThirdDigitIs7\obj\Debug\Problem5.ThirdDigitIs7.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem5.ThirdDigitIs7\obj\Debug\Problem5.ThirdDigitIs7.pdb
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem5.ThirdDigitIs7\bin\Debug\Problem5.ThirdDigitIs7.exe.config
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem5.ThirdDigitIs7\obj\Debug\Problem5.ThirdDigitIs7.exe
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem5.ThirdDigitIs7\obj\Debug\Problem5.ThirdDigitIs7.pdb

@@ -1,0 +1,12 @@
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem6.CalculateFactorialDivision\bin\Debug\Problem6.CalculateFactorialDivision.exe.config
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem6.CalculateFactorialDivision\bin\Debug\Problem6.CalculateFactorialDivision.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem6.CalculateFactorialDivision\bin\Debug\Problem6.CalculateFactorialDivision.pdb
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem6.CalculateFactorialDivision\obj\Debug\Problem6.CalculateFactorialDivision.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem6.CalculateFactorialDivision\obj\Debug\Problem6.CalculateFactorialDivision.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem6.CalculateFactorialDivision\obj\Debug\Problem6.CalculateFactorialDivision.pdb
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem6.CalculateFactorialDivision\bin\Debug\Problem6.CalculateFactorialDivision.exe.config
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem6.CalculateFactorialDivision\obj\Debug\Problem6.CalculateFactorialDivision.exe
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem6.CalculateFactorialDivision\obj\Debug\Problem6.CalculateFactorialDivision.pdb
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem6.CalculateFactorialDivision\bin\Debug\Problem6.CalculateFactorialDivision.exe
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem6.CalculateFactorialDivision\bin\Debug\Problem6.CalculateFactorialDivision.pdb
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem6.CalculateFactorialDivision\obj\Debug\Problem6.CalculateFactorialDivision.csprojResolveAssemblyReference.cache

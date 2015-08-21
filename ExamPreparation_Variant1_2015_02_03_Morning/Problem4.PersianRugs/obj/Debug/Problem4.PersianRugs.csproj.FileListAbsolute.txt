@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant2_2015_02_03_Morning\Problem4.PersianRugs\bin\Debug\Problem4.PersianRugs.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant2_2015_02_03_Morning\Problem4.PersianRugs\bin\Debug\Problem4.PersianRugs.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant2_2015_02_03_Morning\Problem4.PersianRugs\bin\Debug\Problem4.PersianRugs.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant2_2015_02_03_Morning\Problem4.PersianRugs\obj\Debug\Problem4.PersianRugs.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant2_2015_02_03_Morning\Problem4.PersianRugs\obj\Debug\Problem4.PersianRugs.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant2_2015_02_03_Morning\Problem4.PersianRugs\obj\Debug\Problem4.PersianRugs.pdb

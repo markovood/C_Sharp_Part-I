@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem5.NaBabaMiSmetalnika\bin\Debug\Problem5.NaBabaMiSmetalnika.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem5.NaBabaMiSmetalnika\bin\Debug\Problem5.NaBabaMiSmetalnika.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem5.NaBabaMiSmetalnika\bin\Debug\Problem5.NaBabaMiSmetalnika.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem5.NaBabaMiSmetalnika\obj\Debug\Problem5.NaBabaMiSmetalnika.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem5.NaBabaMiSmetalnika\obj\Debug\Problem5.NaBabaMiSmetalnika.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(5-12-2013)\Problem5.NaBabaMiSmetalnika\obj\Debug\Problem5.NaBabaMiSmetalnika.pdb

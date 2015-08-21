@@ -1,0 +1,9 @@
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem7.CalculateCombinations\bin\Debug\Problem7.CalculateCombinations.exe.config
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem7.CalculateCombinations\bin\Debug\Problem7.CalculateCombinations.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem7.CalculateCombinations\bin\Debug\Problem7.CalculateCombinations.pdb
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem7.CalculateCombinations\obj\Debug\Problem7.CalculateCombinations.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem7.CalculateCombinations\obj\Debug\Problem7.CalculateCombinations.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem7.CalculateCombinations\obj\Debug\Problem7.CalculateCombinations.pdb
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem7.CalculateCombinations\bin\Debug\Problem7.CalculateCombinations.exe.config
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem7.CalculateCombinations\obj\Debug\Problem7.CalculateCombinations.exe
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem7.CalculateCombinations\obj\Debug\Problem7.CalculateCombinations.pdb

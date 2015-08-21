@@ -1,0 +1,1 @@
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem3.MinMaxSumAndAverageOfNNumbers\bin\Debug\Problem3.MinMaxSumAndAverageOfNNumbers.exe.config

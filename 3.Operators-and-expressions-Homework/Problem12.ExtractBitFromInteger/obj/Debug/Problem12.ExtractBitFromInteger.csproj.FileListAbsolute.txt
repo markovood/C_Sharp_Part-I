@@ -1,0 +1,8 @@
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem12.ExtractBitFromInteger\bin\Debug\Problem12.ExtractBitFromInteger.exe.config
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem12.ExtractBitFromInteger\bin\Debug\Problem12.ExtractBitFromInteger.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem12.ExtractBitFromInteger\bin\Debug\Problem12.ExtractBitFromInteger.pdb
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem12.ExtractBitFromInteger\obj\Debug\Problem12.ExtractBitFromInteger.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem12.ExtractBitFromInteger\obj\Debug\Problem12.ExtractBitFromInteger.pdb
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem12.ExtractBitFromInteger\bin\Debug\Problem12.ExtractBitFromInteger.exe.config
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem12.ExtractBitFromInteger\obj\Debug\Problem12.ExtractBitFromInteger.exe
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem12.ExtractBitFromInteger\obj\Debug\Problem12.ExtractBitFromInteger.pdb

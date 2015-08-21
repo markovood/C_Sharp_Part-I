@@ -1,0 +1,12 @@
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem1.DeclareVariables\bin\Debug\Problem1.DeclareVariables.exe.config
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem1.DeclareVariables\bin\Debug\Problem1.DeclareVariables.exe
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem1.DeclareVariables\bin\Debug\Problem1.DeclareVariables.pdb
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem1.DeclareVariables\obj\Debug\Problem1.DeclareVariables.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem1.DeclareVariables\obj\Debug\Problem1.DeclareVariables.exe
+D:\Visual studio Projects\PrimitiveDataTypesAndVariables-Homework\Problem1.DeclareVariables\obj\Debug\Problem1.DeclareVariables.pdb
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem1.DeclareVariables\bin\Debug\Problem1.DeclareVariables.exe.config
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem1.DeclareVariables\obj\Debug\Problem1.DeclareVariables.exe
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem1.DeclareVariables\obj\Debug\Problem1.DeclareVariables.pdb
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem1.DeclareVariables\bin\Debug\Problem1.DeclareVariables.exe
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem1.DeclareVariables\bin\Debug\Problem1.DeclareVariables.pdb
+D:\Visual studio Projects\C#Part-I\2.PrimitiveDataTypesAndVariables-Homework\Problem1.DeclareVariables\obj\Debug\Problem1.DeclareVariables.csprojResolveAssemblyReference.cache

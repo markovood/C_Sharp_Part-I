@@ -1,0 +1,12 @@
+D:\Visual studio Projects\Intro-Programming-Homework\Problem9.PrintASequence\bin\Debug\Problem9.PrintASequence.exe.config
+D:\Visual studio Projects\Intro-Programming-Homework\Problem9.PrintASequence\obj\Debug\Problem9.PrintASequence.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\Intro-Programming-Homework\Problem9.PrintASequence\bin\Debug\Problem9.PrintASequence.exe
+D:\Visual studio Projects\Intro-Programming-Homework\Problem9.PrintASequence\bin\Debug\Problem9.PrintASequence.pdb
+D:\Visual studio Projects\Intro-Programming-Homework\Problem9.PrintASequence\obj\Debug\Problem9.PrintASequence.exe
+D:\Visual studio Projects\Intro-Programming-Homework\Problem9.PrintASequence\obj\Debug\Problem9.PrintASequence.pdb
+D:\Visual studio Projects\C#Part-I\1.Intro-Programming-Homework\Problem9.PrintASequence\bin\Debug\Problem9.PrintASequence.exe.config
+D:\Visual studio Projects\C#Part-I\1.Intro-Programming-Homework\Problem9.PrintASequence\obj\Debug\Problem9.PrintASequence.exe
+D:\Visual studio Projects\C#Part-I\1.Intro-Programming-Homework\Problem9.PrintASequence\obj\Debug\Problem9.PrintASequence.pdb
+D:\Visual studio Projects\C#Part-I\1.Intro-Programming-Homework\Problem9.PrintASequence\bin\Debug\Problem9.PrintASequence.exe
+D:\Visual studio Projects\C#Part-I\1.Intro-Programming-Homework\Problem9.PrintASequence\bin\Debug\Problem9.PrintASequence.pdb
+D:\Visual studio Projects\C#Part-I\1.Intro-Programming-Homework\Problem9.PrintASequence\obj\Debug\Problem9.PrintASequence.csprojResolveAssemblyReference.cache

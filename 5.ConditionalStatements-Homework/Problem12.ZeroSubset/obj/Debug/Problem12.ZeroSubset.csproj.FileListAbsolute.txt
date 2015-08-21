@@ -1,0 +1,5 @@
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem12.ZeroSubset\bin\Debug\Problem12.ZeroSubset.exe.config
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem12.ZeroSubset\bin\Debug\Problem12.ZeroSubset.exe
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem12.ZeroSubset\bin\Debug\Problem12.ZeroSubset.pdb
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem12.ZeroSubset\obj\Debug\Problem12.ZeroSubset.exe
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem12.ZeroSubset\obj\Debug\Problem12.ZeroSubset.pdb

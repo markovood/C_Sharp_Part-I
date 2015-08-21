@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant2_2015_02_03_Morning\Problem1.ThreeNumbers\bin\Debug\Problem1.ThreeNumbers.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant2_2015_02_03_Morning\Problem1.ThreeNumbers\bin\Debug\Problem1.ThreeNumbers.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant2_2015_02_03_Morning\Problem1.ThreeNumbers\bin\Debug\Problem1.ThreeNumbers.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant2_2015_02_03_Morning\Problem1.ThreeNumbers\obj\Debug\Problem1.ThreeNumbers.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant2_2015_02_03_Morning\Problem1.ThreeNumbers\obj\Debug\Problem1.ThreeNumbers.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant2_2015_02_03_Morning\Problem1.ThreeNumbers\obj\Debug\Problem1.ThreeNumbers.pdb

@@ -1,0 +1,8 @@
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem14.ModifyBitAtGivenPosition\bin\Debug\Problem14.ModifyBitAtGivenPosition.exe.config
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem14.ModifyBitAtGivenPosition\bin\Debug\Problem14.ModifyBitAtGivenPosition.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem14.ModifyBitAtGivenPosition\bin\Debug\Problem14.ModifyBitAtGivenPosition.pdb
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem14.ModifyBitAtGivenPosition\obj\Debug\Problem14.ModifyBitAtGivenPosition.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem14.ModifyBitAtGivenPosition\obj\Debug\Problem14.ModifyBitAtGivenPosition.pdb
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem14.ModifyBitAtGivenPosition\bin\Debug\Problem14.ModifyBitAtGivenPosition.exe.config
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem14.ModifyBitAtGivenPosition\obj\Debug\Problem14.ModifyBitAtGivenPosition.exe
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem14.ModifyBitAtGivenPosition\obj\Debug\Problem14.ModifyBitAtGivenPosition.pdb

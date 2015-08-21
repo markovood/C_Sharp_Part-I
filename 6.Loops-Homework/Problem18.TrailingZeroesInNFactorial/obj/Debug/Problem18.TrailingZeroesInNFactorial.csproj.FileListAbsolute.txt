@@ -1,0 +1,12 @@
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem18.TrailingZeroesInNFactorial\bin\Debug\Problem18.TrailingZeroesInNFactorial.exe.config
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem18.TrailingZeroesInNFactorial\obj\Debug\Problem18.TrailingZeroesInNFactorial.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem18.TrailingZeroesInNFactorial\bin\Debug\Problem18.TrailingZeroesInNFactorial.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem18.TrailingZeroesInNFactorial\bin\Debug\Problem18.TrailingZeroesInNFactorial.pdb
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem18.TrailingZeroesInNFactorial\obj\Debug\Problem18.TrailingZeroesInNFactorial.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem18.TrailingZeroesInNFactorial\obj\Debug\Problem18.TrailingZeroesInNFactorial.pdb
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem18.TrailingZeroesInNFactorial\bin\Debug\Problem18.TrailingZeroesInNFactorial.exe.config
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem18.TrailingZeroesInNFactorial\obj\Debug\Problem18.TrailingZeroesInNFactorial.exe
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem18.TrailingZeroesInNFactorial\obj\Debug\Problem18.TrailingZeroesInNFactorial.pdb
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem18.TrailingZeroesInNFactorial\bin\Debug\Problem18.TrailingZeroesInNFactorial.exe
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem18.TrailingZeroesInNFactorial\bin\Debug\Problem18.TrailingZeroesInNFactorial.pdb
+D:\VS2013-Projects\C#Part-I\6.Loops-Homework\Problem18.TrailingZeroesInNFactorial\obj\Debug\Problem18.TrailingZeroesInNFactorial.csprojResolveAssemblyReference.cache

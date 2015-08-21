@@ -1,0 +1,6 @@
+D:\Visual studio Projects\Intro-Programming-Homework\Problem8.SquareRoot\bin\Debug\Problem8.SquareRoot.exe.config
+D:\Visual studio Projects\Intro-Programming-Homework\Problem8.SquareRoot\bin\Debug\Problem8.SquareRoot.exe
+D:\Visual studio Projects\Intro-Programming-Homework\Problem8.SquareRoot\bin\Debug\Problem8.SquareRoot.pdb
+D:\Visual studio Projects\Intro-Programming-Homework\Problem8.SquareRoot\obj\Debug\Problem8.SquareRoot.exe
+D:\Visual studio Projects\Intro-Programming-Homework\Problem8.SquareRoot\obj\Debug\Problem8.SquareRoot.pdb
+D:\Visual studio Projects\Intro-Programming-Homework\Problem8.SquareRoot\obj\Debug\Problem8.SquareRoot.csprojResolveAssemblyReference.cache

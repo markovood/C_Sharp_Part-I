@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1.Money", "Problem1.Money\Problem1.Money.csproj", "{DFC87834-30C4-4740-89C6-E73913CD83CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{D8EC8A2C-8A9E-4721-A468-BD190044C64E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2.EncodingSum", "Problem2.EncodingSum\Problem2.EncodingSum.csproj", "{99831005-5FE9-479F-9083-5CAD240108E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3.Maslan", "Problem3.Maslan\Problem3.Maslan.csproj", "{3AAB8B67-39BF-4520-9853-ED94C9DE4D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4.Cube3D", "Problem4.Cube3D\Problem4.Cube3D.csproj", "{74EE2F9C-3295-4105-96D1-4F825F95F0F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem5.SequenceOfBits", "Problem5.SequenceOfBits\Problem5.SequenceOfBits.csproj", "{907035AA-4692-433A-9767-AAA17DC160E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC87834-30C4-4740-89C6-E73913CD83CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC87834-30C4-4740-89C6-E73913CD83CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC87834-30C4-4740-89C6-E73913CD83CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC87834-30C4-4740-89C6-E73913CD83CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8EC8A2C-8A9E-4721-A468-BD190044C64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8EC8A2C-8A9E-4721-A468-BD190044C64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8EC8A2C-8A9E-4721-A468-BD190044C64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8EC8A2C-8A9E-4721-A468-BD190044C64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99831005-5FE9-479F-9083-5CAD240108E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99831005-5FE9-479F-9083-5CAD240108E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99831005-5FE9-479F-9083-5CAD240108E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99831005-5FE9-479F-9083-5CAD240108E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AAB8B67-39BF-4520-9853-ED94C9DE4D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AAB8B67-39BF-4520-9853-ED94C9DE4D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AAB8B67-39BF-4520-9853-ED94C9DE4D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AAB8B67-39BF-4520-9853-ED94C9DE4D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74EE2F9C-3295-4105-96D1-4F825F95F0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EE2F9C-3295-4105-96D1-4F825F95F0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EE2F9C-3295-4105-96D1-4F825F95F0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EE2F9C-3295-4105-96D1-4F825F95F0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907035AA-4692-433A-9767-AAA17DC160E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907035AA-4692-433A-9767-AAA17DC160E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907035AA-4692-433A-9767-AAA17DC160E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907035AA-4692-433A-9767-AAA17DC160E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

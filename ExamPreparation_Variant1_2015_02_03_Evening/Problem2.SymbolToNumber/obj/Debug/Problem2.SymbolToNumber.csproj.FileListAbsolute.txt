@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_03_Evening\Problem2.SymbolToNumber\bin\Debug\Problem2.SymbolToNumber.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_03_Evening\Problem2.SymbolToNumber\bin\Debug\Problem2.SymbolToNumber.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_03_Evening\Problem2.SymbolToNumber\bin\Debug\Problem2.SymbolToNumber.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_03_Evening\Problem2.SymbolToNumber\obj\Debug\Problem2.SymbolToNumber.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_03_Evening\Problem2.SymbolToNumber\obj\Debug\Problem2.SymbolToNumber.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_03_Evening\Problem2.SymbolToNumber\obj\Debug\Problem2.SymbolToNumber.pdb

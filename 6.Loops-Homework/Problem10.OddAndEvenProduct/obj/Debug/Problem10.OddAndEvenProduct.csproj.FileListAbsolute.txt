@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem10.OddAndEvenProduct\bin\Debug\Problem10.OddAndEvenProduct.exe.config
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem10.OddAndEvenProduct\bin\Debug\Problem10.OddAndEvenProduct.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem10.OddAndEvenProduct\bin\Debug\Problem10.OddAndEvenProduct.pdb
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem10.OddAndEvenProduct\obj\Debug\Problem10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem10.OddAndEvenProduct\obj\Debug\Problem10.OddAndEvenProduct.exe
+D:\Visual studio Projects\C#Part-I\6.Loops-Homework\Problem10.OddAndEvenProduct\obj\Debug\Problem10.OddAndEvenProduct.pdb

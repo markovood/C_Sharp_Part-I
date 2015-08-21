@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem3.SaddyKopper\bin\Debug\Problem3.SaddyKopper.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem3.SaddyKopper\bin\Debug\Problem3.SaddyKopper.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem3.SaddyKopper\bin\Debug\Problem3.SaddyKopper.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem3.SaddyKopper\obj\Debug\Problem3.SaddyKopper.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem3.SaddyKopper\obj\Debug\Problem3.SaddyKopper.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem3.SaddyKopper\obj\Debug\Problem3.SaddyKopper.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem3.XExpression\bin\Debug\Problem3.XExpression.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem3.XExpression\bin\Debug\Problem3.XExpression.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem3.XExpression\bin\Debug\Problem3.XExpression.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem3.XExpression\obj\Debug\Problem3.XExpression.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem3.XExpression\obj\Debug\Problem3.XExpression.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem3.XExpression\obj\Debug\Problem3.XExpression.pdb

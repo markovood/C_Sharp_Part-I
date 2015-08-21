@@ -1,0 +1,9 @@
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem1.OddOrEvenIntegers\bin\Debug\Problem1.OddOrEvenIntegers.exe.config
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem1.OddOrEvenIntegers\bin\Debug\Problem1.OddOrEvenIntegers.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem1.OddOrEvenIntegers\bin\Debug\Problem1.OddOrEvenIntegers.pdb
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem1.OddOrEvenIntegers\obj\Debug\Problem1.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem1.OddOrEvenIntegers\obj\Debug\Problem1.OddOrEvenIntegers.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem1.OddOrEvenIntegers\obj\Debug\Problem1.OddOrEvenIntegers.pdb
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem1.OddOrEvenIntegers\bin\Debug\Problem1.OddOrEvenIntegers.exe.config
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem1.OddOrEvenIntegers\obj\Debug\Problem1.OddOrEvenIntegers.exe
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem1.OddOrEvenIntegers\obj\Debug\Problem1.OddOrEvenIntegers.pdb

@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_03_Evening\Problem5.FindBits\bin\Debug\Problem5.FindBits.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_03_Evening\Problem5.FindBits\bin\Debug\Problem5.FindBits.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_03_Evening\Problem5.FindBits\bin\Debug\Problem5.FindBits.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_03_Evening\Problem5.FindBits\obj\Debug\Problem5.FindBits.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_03_Evening\Problem5.FindBits\obj\Debug\Problem5.FindBits.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_03_Evening\Problem5.FindBits\obj\Debug\Problem5.FindBits.pdb

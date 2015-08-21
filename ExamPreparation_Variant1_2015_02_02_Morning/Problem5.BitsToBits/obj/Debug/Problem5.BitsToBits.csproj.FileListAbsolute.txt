@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem5.BitsToBits\bin\Debug\Problem5.BitsToBits.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem5.BitsToBits\bin\Debug\Problem5.BitsToBits.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem5.BitsToBits\bin\Debug\Problem5.BitsToBits.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem5.BitsToBits\obj\Debug\Problem5.BitsToBits.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem5.BitsToBits\obj\Debug\Problem5.BitsToBits.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Morning\Problem5.BitsToBits\obj\Debug\Problem5.BitsToBits.pdb

@@ -1,0 +1,12 @@
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem6.FourDigitNumber\bin\Debug\Problem6.FourDigitNumber.exe.config
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem6.FourDigitNumber\obj\Debug\Problem6.FourDigitNumber.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem6.FourDigitNumber\bin\Debug\Problem6.FourDigitNumber.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem6.FourDigitNumber\bin\Debug\Problem6.FourDigitNumber.pdb
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem6.FourDigitNumber\obj\Debug\Problem6.FourDigitNumber.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem6.FourDigitNumber\obj\Debug\Problem6.FourDigitNumber.pdb
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem6.FourDigitNumber\bin\Debug\Problem6.FourDigitNumber.exe.config
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem6.FourDigitNumber\obj\Debug\Problem6.FourDigitNumber.exe
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem6.FourDigitNumber\obj\Debug\Problem6.FourDigitNumber.pdb
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem6.FourDigitNumber\bin\Debug\Problem6.FourDigitNumber.exe
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem6.FourDigitNumber\bin\Debug\Problem6.FourDigitNumber.pdb
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem6.FourDigitNumber\obj\Debug\Problem6.FourDigitNumber.csprojResolveAssemblyReference.cache

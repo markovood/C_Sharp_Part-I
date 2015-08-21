@@ -1,0 +1,14 @@
+D:\Visual studio Projects\ConditionalStatements\Problem3.CheckForAPlayCard\bin\Debug\Problem3.CheckForAPlayCard.exe.config
+D:\Visual studio Projects\ConditionalStatements\Problem3.CheckForAPlayCard\bin\Debug\Problem3.CheckForAPlayCard.exe
+D:\Visual studio Projects\ConditionalStatements\Problem3.CheckForAPlayCard\bin\Debug\Problem3.CheckForAPlayCard.pdb
+D:\Visual studio Projects\ConditionalStatements\Problem3.CheckForAPlayCard\obj\Debug\Problem3.CheckForAPlayCard.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\ConditionalStatements\Problem3.CheckForAPlayCard\obj\Debug\Problem3.CheckForAPlayCard.exe
+D:\Visual studio Projects\ConditionalStatements\Problem3.CheckForAPlayCard\obj\Debug\Problem3.CheckForAPlayCard.pdb
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem3.CheckForAPlayCard\bin\Debug\Problem3.CheckForAPlayCard.exe.config
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem3.CheckForAPlayCard\bin\Debug\Problem3.CheckForAPlayCard.exe
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem3.CheckForAPlayCard\bin\Debug\Problem3.CheckForAPlayCard.pdb
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem3.CheckForAPlayCard\bin\Debug\Problem3.CheckForAPlayCard.exe.CodeAnalysisLog.xml
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem3.CheckForAPlayCard\bin\Debug\Problem3.CheckForAPlayCard.exe.lastcodeanalysissucceeded
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem3.CheckForAPlayCard\obj\Debug\Problem3.CheckForAPlayCard.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem3.CheckForAPlayCard\obj\Debug\Problem3.CheckForAPlayCard.exe
+D:\Visual studio Projects\C#Part-I\5.ConditionalStatements-Homework\Problem3.CheckForAPlayCard\obj\Debug\Problem3.CheckForAPlayCard.pdb

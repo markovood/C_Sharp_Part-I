@@ -1,0 +1,12 @@
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\Problem10.PointInsideACircleAndOutsideOfARectangle.exe.config
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\Problem10.PointInsideACircleAndOutsideOfARectangle.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\Problem10.PointInsideACircleAndOutsideOfARectangle.pdb
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem10.PointInsideACircleAndOutsideOfARectangle\obj\Debug\Problem10.PointInsideACircleAndOutsideOfARectangle.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem10.PointInsideACircleAndOutsideOfARectangle\obj\Debug\Problem10.PointInsideACircleAndOutsideOfARectangle.exe
+D:\Visual studio Projects\Operators-and-expressions-Homework\Problem10.PointInsideACircleAndOutsideOfARectangle\obj\Debug\Problem10.PointInsideACircleAndOutsideOfARectangle.pdb
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\Problem10.PointInsideACircleAndOutsideOfARectangle.exe.config
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem10.PointInsideACircleAndOutsideOfARectangle\obj\Debug\Problem10.PointInsideACircleAndOutsideOfARectangle.exe
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\Problem10.PointInsideACircleAndOutsideOfARectangle.exe
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\Problem10.PointInsideACircleAndOutsideOfARectangle.pdb
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem10.PointInsideACircleAndOutsideOfARectangle\obj\Debug\Problem10.PointInsideACircleAndOutsideOfARectangle.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\3.Operators-and-expressions-Homework\Problem10.PointInsideACircleAndOutsideOfARectangle\obj\Debug\Problem10.PointInsideACircleAndOutsideOfARectangle.pdb

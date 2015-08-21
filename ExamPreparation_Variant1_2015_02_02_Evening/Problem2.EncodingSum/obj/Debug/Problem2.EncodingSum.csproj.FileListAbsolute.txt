@@ -1,0 +1,5 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Evening\Problem2.EncodingSum\bin\Debug\Problem2.EncodingSum.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Evening\Problem2.EncodingSum\bin\Debug\Problem2.EncodingSum.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Evening\Problem2.EncodingSum\bin\Debug\Problem2.EncodingSum.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Evening\Problem2.EncodingSum\obj\Debug\Problem2.EncodingSum.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation_Variant1_2015_02_02_Evening\Problem2.EncodingSum\obj\Debug\Problem2.EncodingSum.pdb

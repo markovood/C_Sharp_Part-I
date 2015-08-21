@@ -1,0 +1,6 @@
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem4.DiamondTrolls\bin\Debug\Problem4.DiamondTrolls.exe.config
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem4.DiamondTrolls\bin\Debug\Problem4.DiamondTrolls.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem4.DiamondTrolls\bin\Debug\Problem4.DiamondTrolls.pdb
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem4.DiamondTrolls\obj\Debug\Problem4.DiamondTrolls.csprojResolveAssemblyReference.cache
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem4.DiamondTrolls\obj\Debug\Problem4.DiamondTrolls.exe
+D:\Visual studio Projects\C#Part-I\ExamPreparation-Variant(6-12-2013)\Problem4.DiamondTrolls\obj\Debug\Problem4.DiamondTrolls.pdb
